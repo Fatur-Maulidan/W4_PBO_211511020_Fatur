@@ -22,5 +22,4 @@ public class Barang {
         this.kode_barang = kode_barang;
         this.nama_barang = nama_barang;
     }
-    
 }
